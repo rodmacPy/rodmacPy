@@ -12,7 +12,7 @@ Soy Enmanuel Rodríguez, un desarrollador Full Stack en proceso de crecimiento d
 
 ⚡ Un hecho curioso sobre mí es que también tengo experiencia en administración de pequeños negocios, lo que me ha enseñado la importancia de la empatía y la comprensión en las relaciones con los clientes.
 
-💬 Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme en [tu correo electrónico].
+💬 Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme en.
 
 
 ### 🛠 Tech Stack

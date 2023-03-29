@@ -1,18 +1,29 @@
+
+<h1 align="center">Hi 👋, I'm Enmanuel Rodriguez</h1>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115433143/228385920-45dfc13e-d5d9-4f08-b705-1d1b8eabe71e.gif" />
+<h3 align="center">A passionate fullstack developer from Paraguay</h3>
 
-## I'm Enmanuel Rodriguez 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodmacpy&label=Profile%20views&color=0e75b6&style=flat" alt="rodmacpy" /> </p>
 
-Soy Enmanuel Rodríguez, un desarrollador Full Stack en proceso de crecimiento de la ciudad de Coronel Bogado, Itapúa, Paraguay.
+- 🌱 I’m currently learning **Nest**
 
-💻 Me interesa especialmente el desarrollo web y tengo experiencia en tecnologías como React, NodeJS, Express, MongoDB y SocketIO, adquirida a través de mi participación en el bootcamp de Coding Dojo.
+- 👨‍💻 All of my projects are available at [https://github.com/rodmacPy](https://github.com/rodmacPy)
 
-🌱 Además, soy un apasionado por el aprendizaje continuo y siempre estoy en busca de nuevas tecnologías y herramientas para mejorar mis habilidades. Me encanta contribuir a proyectos de código abierto y compartir mi conocimiento con la comunidad.
+- 💬 Ask me about **react and node**
 
-⭐ Algunos de mis proyectos son Abuelos en comunidad y Rodmac Garden, los cuales puedes encontrar en mi perfil de Github.
+- 📫 How to reach me **enmanuelrodmac@gmail.com**
 
-⚡ Un hecho curioso sobre mí es que también tengo experiencia en administración de pequeños negocios, lo que me ha enseñado la importancia de la empatía y la comprensión en las relaciones con los clientes.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/enmanuelrodmac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enmanuelrodmac/" height="30" width="40" /></a>
+<a href="https://instagram.com/enmanuelrodmac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enmanuelrodmac" height="30" width="40" /></a>
+</p>
 
-💬 Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme en.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodmacpy&show_icons=true&locale=en&layout=compact" alt="rodmacpy" /></p>
 
-### 🛠 Tech Stack
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodmacpy&show_icons=true&locale=en" alt="rodmacpy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodmacpy&" alt="rodmacpy" /></p>
